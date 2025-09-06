@@ -34,67 +34,54 @@ ML_Case_Studies/
 
 ---
 
-🛠 Technologies Used
+## Technologies Used
 
-Languages: Python 🐍
+- Languages: Python 
+- Libraries:
+  - Pandas, NumPy, Matplotlib, Seaborn
+  - Scikit-learn, XGBoost, LightGBM
+  - Statsmodels, Plotly
+- Tools: Jupyter Notebook, Google Colab
+- Version Control: Git & GitHub
 
-Libraries:
+---
 
-Pandas, NumPy, Matplotlib, Seaborn
+## Key Features
 
-Scikit-learn, XGBoost, LightGBM
+- End-to-End Machine Learning Pipelines
+- Hands-on Exploratory Data Analysis (EDA)
+- Feature Engineering & Model Building
+- Model Evaluation & Performance Metrics
+- Real-world, industry-relevant datasets
 
-Statsmodels, Plotly
+----
 
-Tools: Jupyter Notebook, Google Colab
+## How to Use
 
-Version Control: Git & GitHub
-
-📊 Key Features
-
-✅ End-to-End Machine Learning Pipelines
-✅ Hands-on Exploratory Data Analysis (EDA)
-✅ Feature Engineering & Model Building
-✅ Model Evaluation & Performance Metrics
-✅ Real-world, industry-relevant datasets
-
-🚀 How to Use
-
-Clone the repository
-
+- Clone the repository
+```
 git clone https://github.com/UzmaKhatun/ML_Case_Studies.git
 cd ML_Case_Studies
+```
 
-
-Install dependencies
-
+- Install dependencies
+```
 pip install -r requirements.txt
+```
 
-
-Open Jupyter Notebook
-
+- Open Jupyter Notebook
+```
 jupyter notebook
+```
 
+- Explore the case studies
+Open any .ipynb file and start experimenting 
 
-Explore the case studies
-Open any .ipynb file and start experimenting 🚀
+---
 
-🤝 Contributing
-
-Contributions are welcome! 🎉
-If you'd like to improve a notebook, add a new case study, or fix a bug:
-
-Fork the repo
-
-Create a new branch
-
-Commit your changes
-
-Open a Pull Request
-
-📬 Contact
+## Contact
 
 - Author: Uzma Khatun
-- 📧 Email: [your email]
-- 🔗 LinkedIn: Your LinkedIn Profile
-- 🌐 GitHub: UzmaKhatun
+- 📧 Email: [email](uzmakhatun0205@gmail.com)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/uzma-khatun-88b990334/)
+- 🌐 GitHub: [UzmaKhatun](https://github.com/UzmaKhatun)
