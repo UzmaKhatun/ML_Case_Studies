@@ -21,16 +21,17 @@ ML_Case_Studies/
 ---
 
 ## Case Studies Covered
-```
-Project	Objective	Techniques Used
-Airbnb Listing	Predict Airbnb listing prices	Linear Regression, EDA
-House Price Prediction	Estimate house prices	Multiple Regression, Feature Engineering
-Loan Tap	Predict loan approvals	Logistic Regression, Classification
-Porter Delivery Time Estimation	Estimate delivery times	Regression, Model Evaluation
-Segmenting Patients	Cluster patients based on health data	K-Means, Clustering, PCA
-Superstore Case Study	Analyze sales & predict future revenue	Regression, Forecasting
-Numpy Case Study	Perform data analysis using Numpy	Data Manipulation, Statistics
-```
+
+|Project	|Objective	|Techniques Used|
+|----------|--------------|------------|
+|Airbnb Listing	|Predict Airbnb listing prices	|Linear Regression, EDA|
+|House Price Prediction|	Estimate house prices|	Multiple Regression, Feature Engineering|
+|Loan	Predict |loan approvals	|Logistic Regression, Classification|
+|Porter Delivery Time Estimation|	Estimate delivery times|	Regression, Model Evaluation|
+|Segmenting Patients|	Cluster patients based on health data|	K-Means, Clustering, PCA|
+|Superstore Case Study	|Analyze sales & predict future revenue	|Regression, Forecasting|
+|Numpy Case Study	|Perform data analysis using Numpy|	Data Manipulation, Statistics|
+
 ---
 
 🛠 Technologies Used
@@ -93,8 +94,7 @@ Open a Pull Request
 
 📬 Contact
 
-Author: Uzma Khatun
-📧 Email: [your email]
-🔗 LinkedIn: Your LinkedIn Profile
-
-🌐 GitHub: UzmaKhatun
+- Author: Uzma Khatun
+- 📧 Email: [your email]
+- 🔗 LinkedIn: Your LinkedIn Profile
+- 🌐 GitHub: UzmaKhatun
