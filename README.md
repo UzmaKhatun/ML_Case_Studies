@@ -75,7 +75,7 @@ jupyter notebook
 ```
 
 - Explore the case studies
-Open any .ipynb file and start experimenting 
+    Open any .ipynb file and start experimenting 
 
 ---
 
